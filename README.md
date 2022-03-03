@@ -1,4 +1,5 @@
-                                                         * MOCKITO *
+# MOCKITO #
+
 Mockito with Junit Sample Code
 
 # What is Mocking? #
