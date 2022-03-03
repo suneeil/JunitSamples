@@ -1,0 +1,14 @@
+package mokito;
+
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
+
+public class FirstMokitoTest {
+
+    @Test
+    void test() {
+        assertTrue(true);
+    }
+}
