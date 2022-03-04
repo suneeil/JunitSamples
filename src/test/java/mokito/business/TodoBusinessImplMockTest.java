@@ -1,11 +1,8 @@
 package mokito.business;
 
 import mokito.data.api.TodoService;
-import mokito.data.api.TodoServiceStub;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.mockito.Mockito;
-
 import java.util.Arrays;
 import java.util.List;
 
